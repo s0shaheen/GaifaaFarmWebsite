@@ -655,3 +655,21 @@
 		#footer a {
 			color: inherit;
 		}
+
+/* Inventory Grid */
+#inventory {
+	height: 100%;
+	width: 100%;
+	display: flex;
+}
+#item1 {
+	width: 33%;
+	margin-right: 25px;
+}
+#item2 {
+	width: 33%;
+	margin-right: 25px;
+}
+#item3 {
+	width: 33%;
+}
